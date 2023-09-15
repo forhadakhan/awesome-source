@@ -1,1 +1,5 @@
-# awesome-source
+# Awesome Source
+
+Usefull resource collections for developers. 
+
+------
